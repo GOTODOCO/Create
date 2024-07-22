@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App2.css";
 import Confetti from "./Confetti";
 
 const shareMessage = "I just ran my first container using Docker";
@@ -11,7 +11,7 @@ const App = () => {
       <header className="App-header">
         <h1 style={{ marginBottom: "0px" }}>GOTODOCO </h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
-           Live View
+           Snapshot
         </p>
         <div>
           <a
